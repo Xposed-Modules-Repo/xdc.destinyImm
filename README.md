@@ -1,6 +1,6 @@
 
 # xdc.destinyImm
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/xdc.destinyImm">
+[<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/xdc.destinyImm">](https://github.com/Xposed-Modules-Repo/xdc.destinyImm)
 
 ---
 
