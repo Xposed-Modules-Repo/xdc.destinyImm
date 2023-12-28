@@ -1,6 +1,6 @@
 
 # DestinyImm 抖音沉浸模块
-[<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/xdc.destinyImm">](https://github.com/Xposed-Modules-Repo/xdc.destinyImm/releases/tag/100003-1.0.3)
+[<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/xdc.destinyImm">](https://github.com/Xposed-Modules-Repo/xdc.destinyImm/releases/tag/169832106-23.10.26)
 
 ---
 
@@ -15,6 +15,8 @@
 ---
 
 ### 更新日志
+2023-12-23  v1.0.7 修复模块在新版抖音版本28.0.0(280200)以上版本适配失效问题
+
 2023-10-21  v1.0.6 修复模块在抖音版本27.1.0(270100)以上版本适配失效问题
 
 2023-09-07  v1.0.5 修复模块在抖音版本27.0.0(270000)下去除反馈字样失效问题
